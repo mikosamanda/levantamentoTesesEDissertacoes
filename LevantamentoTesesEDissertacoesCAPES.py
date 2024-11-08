@@ -8,6 +8,7 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 import numpy as np
+import streamlit
 
 # Carrega o arquivo xlsx
 df = pd.read_excel('/home/hub-ia/Documentos/Inteligencia_Atificial/TeseseDissertações Capes_ IA.xlsx')
